@@ -1,0 +1,20 @@
+div{
+	font-size: 60px;
+	width: 290px;
+	height: 70px;
+	text-align: right;
+	
+}
+label{
+	font-size: 60px;
+	
+}
+button{
+	font-size: 60px;
+	color:white;
+	background: #33CCFF;
+	width:70px;
+	height:70px;
+	padding: center;
+
+}
